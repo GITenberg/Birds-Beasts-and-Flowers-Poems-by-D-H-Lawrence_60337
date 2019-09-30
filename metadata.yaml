@@ -1,5 +1,8 @@
 _repo: Birds-Beasts-and-Flowers-Poems-by-D-H-Lawrence_60337
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60337-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60337#Birds-Beasts-and-Flowers-Poems-by-D-H-Lawrence
 gutenberg_issued: '2019-09-21'
 gutenberg_type: Text
 identifiers:
